@@ -4,6 +4,6 @@ This is a sample project .net Core project that reads two separate files and ext
 
 How To Build and Run:
 
-Navigate to project folder execute 
-dotnet build
+<p>Navigate to project folder execute</p> 
+<p>dotnet build</p>
 dotnet run
